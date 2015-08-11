@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/mnt/ip43/jade/code/lte/ALPS.KK.P323_K2V1_CU/alps'
+let g:netrw_dirhist_2='/home/punk/.gvfs/punk on 172.19.1.157'
+let g:netrw_dirhist_3='/home/punk/.gvfs/archives-server on 172.16.6.52'
+let g:netrw_dirhist_4='/home/punk/.gvfs/fileserver on 192.167.100.185'
+let g:netrw_dirhist_5='/etc/usb_modeswitch.d'
+let g:netrw_dirhist_6='/home/punk/.gvfs/file-server on 172.16.6.52'
